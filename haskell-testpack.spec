@@ -2,7 +2,7 @@
 
 Name: haskell-%{module}
 Version: 1.0.2
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Test Utililty Pack for HUnit and QuickCheck
 Group: Development/Other
 License: LGPL

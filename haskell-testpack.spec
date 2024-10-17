@@ -6,7 +6,7 @@ Release: %mkrel 2
 Summary: Test Utililty Pack for HUnit and QuickCheck
 Group: Development/Other
 License: LGPL
-Url: http://hackage.haskell.org/cgi-bin/hackage-scripts/package/%{module}
+Url: https://hackage.haskell.org/cgi-bin/hackage-scripts/package/%{module}
 Source: http://hackage.haskell.org/cgi-bin/hackage-scripts/package/%{module}/%{module}-%{version}.tar.gz
 BuildRoot: %_tmppath/%name-%version-%release-root
 BuildRequires: haskell-macros
